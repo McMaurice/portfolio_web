@@ -1,11 +1,11 @@
 {
-    "name": "macmaurice_portfolio",
-    "short_name": "macmaurice_portfolio",
+    "name": "MacMaurice Osuji",
+    "short_name": "MacMaurice Osuji",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Mobile Developer.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
