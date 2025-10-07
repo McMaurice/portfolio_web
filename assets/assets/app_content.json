@@ -1,0 +1,83 @@
+{
+    "footerMessage": "Let's engineer ideas into reality.",
+    "skillMessage": "My skills span engineering design, software development, and project execution. This mix allows me to design mechanical systems with precision and develop digital products that perform reliably. I approach every project with a balance of technical depth, practical thinking, and efficiency, ensuring both hardware and software solutions meet real-world performance standards.",
+    "frameworkMessage": "I use tools and languages chosen for their balance of performance, scalability, and simplicity. Each one serves a defined purpose in my workflow. Flutter and SwiftUI help me build smooth and responsive user interfaces. Firebase handles backend services and real-time data. Git and GitHub keep my codebase clean and versioned across projects. Together, these tools let me design, build, and deploy efficient mobile and web solutions with speed and precision.",
+    
+    "user": {
+      "name": "MacMaurice Osuji",
+      "intro": "I’m a mobile developer working with Flutter, and on occasion SwiftUI, building cross-platform and native iOS apps that feels smooth and user-first. My background in Mechanical Engineering taught me to think in systems, but I balance that with creativity. I also design and most of the assets in my projects are my own work, from layouts to icons, all because I enjoy shaping the whole experience, not just the code. Curious by nature, I’m always learning, experimenting with new tools and ideas, finding fresh ways to make an app stand out",
+      "imageUrl": "assets/profile_img.jpg",
+      "title": "Mobile Developer",
+      "address": "Port Harcourt, Nigeria",
+      "autobiography": "I am MacMaurice Jachimike Osuji, a Mechanical Engineer and Mobile Developer from Port Harcourt, Nigeria. My career blends engineering precision with software creativity, shaped by a passion for solving problems through both physical design and digital innovation.\nI earned a Bachelor of Engineering in Mechanical Engineering from Alex Ekwueme Federal University Ndufu-Alike, where I led the design and fabrication of a solar-powered lawnmower as my thesis project. That experience built my foundation in project management, fabrication, and renewable systems, and it sparked my interest in combining technical engineering processes with digital tools.\nAfter graduation, I worked as a Construction Engineer Intern at Topline Limited, where I led and coordinated multiple crude and gas line intervention projects for Total Energies, Aradel, and NEPL. I improved departmental documentation efficiency by 50% and gained practical experience in fabrication supervision, project tracking, and material control. These roles taught me the importance of teamwork, discipline, and structured execution in high-risk engineering environments.\nParallel to my engineering journey, I developed a strong passion for software development. As a Mobile Developer on Upwork, I have designed and built functional, user-focused applications using Flutter and SwiftUI, integrating tools like Firebase and Riverpod for state management. My apps include an Advanced Calculator, a Children’s Multiplication Game, and a Game Character Manager built with real-time Firebase storage. This experience strengthened my ability to deliver cross-platform solutions and manage projects independently from concept to deployment.\nBeyond work, I maintain a diverse interest in graphics design, soccer, snooker, and coding. I continuously improve through learning and have completed classes on Udemy. My recent research publication on bioactive leaf extracts for corrosion inhibition in steel pipelines reflects my interest in sustainability and innovation within the oil and gas sector.\nToday, I define myself as a hybrid engineer and developer 😜, someone who builds both machines and mobile experiences. I pay attention to details, adaptability, and clear communication, and I am driven by the challenge of turning technical problems into practical, efficient solutions.",
+      "techCvUrl": "https://macmaurice.dev/tech_cv.pdf",
+      "engrCvUrl": "https://macmaurice.dev/engr_cv.pdf",
+      "softSkills": [
+        "Critical Thinking", 
+        "Adaptability", 
+        "Team Player", 
+        "Leadership", 
+        "Attention to Detail", 
+        "Conflict Management"
+      ],
+
+      "engineeringSkills": [
+        "Project Management", 
+        "Quality Control", 
+        "Arc Welding", 
+        "Time Management",
+        "Documentation & Reporting", 
+        "Fabrication & Modification"
+      ],
+      "techSkills": [
+        "Debugging", 
+        "IT Support", 
+        "Graphics Designing", 
+        "Version Control",
+        "MVVM Architecture", 
+        "REST APIs & JSON"
+      ],   
+      "programingLanguages": [
+        "dart.png",
+        "swift.png",
+        "python.png",
+        "c.png"
+        ],
+      "frameworksAndTools": [
+        "flutter.png",
+        "swiftui.png",         
+        "firebase.png",
+        "html.png",
+        "git.png",
+        "github.png",
+        "google_map.png",          
+        "vscode.png",
+        "xcode.png",
+        "android_studio.png"
+      ],
+      "otherSkills": [
+        "photoshop.png",          
+        "microsoft_suite.png",
+        "solidworks.png",
+        "gimp.png",
+        "snapseed.png"
+      ]      
+    },
+    "projects": [
+      {
+        "id": "1",
+        "title": "Portfolio App",
+        "description": "A personal portfolio built with Flutter Web.",
+        "imageUrl": "assets/images/portfolio.png",
+        "link": "https://macmaurice.dev"
+      },
+      {
+        "id": "2",
+        "title": "TaskFlow",
+        "description": "A productivity app for managing projects efficiently.",
+        "imageUrl": "assets/images/taskflow.png",
+        "link": "https://github.com/macmaurice/taskflow"
+      }
+    ]
+  }
+  
